@@ -46,3 +46,5 @@ Trabajo realizado de forma individual.
 ![alt text](Imagen4.png)
 ![alt text](Imagen5.png)
 # Enlaces de interés:
+https://docs.google.com/spreadsheets/d/1-jPzbWTd_V3z57WSrZkOctk0zwRxLs5GdTQ7akgKK7I/edit?usp=sharing
+https://docs.google.com/presentation/d/1bAVR3Xv9euPcaYSObVtAsQQUn2pdQ6voZhxS6xXrsmA/edit?usp=sharing 
