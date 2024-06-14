@@ -40,5 +40,5 @@ Trabajo realizado de forma individual.
 * El 80% de ingresos lo genera en su mayoría, clientes campeones y leales. 
 * Productos más vendidos: Vino y carnes. Generan más del 60% de ingresos de la tienda. 
 * Sólo el 15% de clientes respondieron a la campaña.
-
+![alt text](Image1.png)
 # Enlaces de interés:
