@@ -41,4 +41,8 @@ Trabajo realizado de forma individual.
 * Productos más vendidos: Vino y carnes. Generan más del 60% de ingresos de la tienda. 
 * Sólo el 15% de clientes respondieron a la campaña.
 ![alt text](Imagen1.png)
+![alt text](Imagen2.png)
+![alt text](Imagen3.png)
+![alt text](Imagen4.png)
+![alt text](Imagen5.png)
 # Enlaces de interés:
