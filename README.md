@@ -48,3 +48,4 @@ Trabajo realizado de forma individual.
 # Enlaces de interés:
 https://docs.google.com/spreadsheets/d/1-jPzbWTd_V3z57WSrZkOctk0zwRxLs5GdTQ7akgKK7I/edit?usp=sharing
 https://docs.google.com/presentation/d/1bAVR3Xv9euPcaYSObVtAsQQUn2pdQ6voZhxS6xXrsmA/edit?usp=sharing 
+https://www.loom.com/share/6a91100537514770a6aad53c70f10a23?sid=e530968f-f440-45af-948d-d56caa1dd2df
